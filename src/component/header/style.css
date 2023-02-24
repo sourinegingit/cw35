@@ -1,0 +1,20 @@
+.header{
+width: 100%;
+background-color: rgb(26, 26, 87);
+color:aliceblue;
+display: flex;
+justify-content: space-between;
+padding: 1rem;
+}
+.div-left{
+    display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 0.5rem;
+}
+.div-rigth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;   
+}
